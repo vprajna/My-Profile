@@ -1,0 +1,27 @@
+body{
+    
+    text-align: center;
+}
+section{
+    
+    width: 100%;
+height: 800px;
+}
+#apps{
+    background-color: deeppink;
+    
+}
+#games{
+    background-color: darkviolet;
+}
+#chatbot{
+    
+    background-color: dodgerblue;
+}
+img{
+    
+   transition: transform .2s;
+}
+img:hover{
+    transform: scale(.9)
+}
